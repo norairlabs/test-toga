@@ -1,0 +1,45 @@
+[
+    {
+        "_id": "66ccc36b08515dfee1b48849",
+        "game": "xplane-12",
+        "partner": "felix",
+        "object_name": "Boeing 742",
+        "community": false,
+        "rns": [
+            {
+                "id": "adf",
+                "name": "XPLANE DATAREF"
+            },
+            {
+                "id": "xpdr",
+                "name": "XPLANE DATAREF"
+            },
+            {
+                "id": "com1_active",
+                "name": "XPLANE DATAREF"
+            },
+            {
+                "id": "com1_stdby",
+                "name": "XPLANE DATAREF"
+            },
+            {
+                "id": "nav1_active",
+                "name": "XPLANE DATAREF"
+            },
+            {
+                "id": "nav1_stdby",
+                "name": "XPLANE DATAREF"
+            }
+        ],
+        "core_datarefs": [
+            {
+                "id": "b742/lights/beacon/batatas",
+                "name": "Beacon Light"
+            },
+            {
+                "id": "b742/lights/nav/batatas",
+                "name": "NAV Light"
+            }
+        ]
+    }
+]
